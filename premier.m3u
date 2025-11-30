@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Premiere" group-title="Brasil", Premiere
+[https://ebc-1-br.direct.cdn.soticcloud.com/live/tvbrasil/playlist.m3u8](https://iptv-org.github.io/channels/br/PremiereFC9#SD)
