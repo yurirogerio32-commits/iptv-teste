@@ -1,0 +1,15 @@
+#EXTM3U
+
+###########  CANAIS HBO (ABERTOS) #############
+
+#EXTINF:-1 tvg-name="TV Brasil" group-title="Brasil", TV Brasil
+https://iptv-org.github.io/channels/br/HBO#SD
+
+#EXTINF:-1 tvg-name="TV Cultura" group-title="Brasil", TV Cultura
+https://iptv-org.github.io/channels/br/HBO2#SD
+
+#EXTINF:-1 tvg-name="TV Câmara" group-title="Brasil", TV Câmara
+https://iptv-org.github.io/channels/br/HBOFamily#SD
+
+#EXTINF:-1 tvg-name="TV Senado" group-title="Brasil", TV Senado
+https://iptv-org.github.io/channels/br/HBOXtreme#SD
