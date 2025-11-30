@@ -1,0 +1,63 @@
+#EXTM3U
+
+###########  CANAIS BRASIL (ABERTOS) #############
+
+#EXTINF:-1 tvg-name="TV Brasil" group-title="Brasil", TV Brasil
+https://ebc-1-br.direct.cdn.soticcloud.com/live/tvbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Cultura" group-title="Brasil", TV Cultura
+https://streaming.culturaonline.tv.br/hls/cultura.m3u8
+
+#EXTINF:-1 tvg-name="TV Câmara" group-title="Brasil", TV Câmara
+http://streaming.camara.leg.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-name="TV Senado" group-title="Brasil", TV Senado
+https://stream3.senado.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-name="TV Justiça" group-title="Brasil", TV Justiça
+https://stream.tvjustica.jus.br/live/playlist.m3u8
+
+
+
+###########  CANAIS DE ESPORTE (GRATUITOS) #############
+
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="Esportes", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/2002830/geoRBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fuel TV" group-title="Esportes", Fuel TV
+https://fueltv-fueltv-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Outdoor Channel" group-title="Esportes", Outdoor Channel
+https://outdoorchannel-samsung.amagi.tv/playlist.m3u8
+
+
+
+###########  ENTRETENIMENTO (GRATUITO) #############
+
+#EXTINF:-1 tvg-name="Rakuten Comedy" group-title="Entretenimento", Rakuten Comedy
+https://rakuten-comedytv-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rakuten Drama" group-title="Entretenimento", Rakuten Drama
+https://rakuten-drama-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Filmes" group-title="Filmes", Pluto Filmes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6091fd1649effd0007e4c9e5/master.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Séries" group-title="Séries", Pluto Séries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f91c8e2fc356700070c04d5/master.m3u8
+
+
+
+###########  CANAIS AMERICANOS (FREE & OFICIAIS) #############
+
+#EXTINF:-1 tvg-name="ABC News" group-title="Internacional", ABC News
+https://abcnews-live.akamaized.net/hls/live/2021118/abcnews/master.m3u8
+
+#EXTINF:-1 tvg-name="CBS News" group-title="Internacional", CBS News
+https://cbsn-us.cbsnews.com/out/v1/master.m3u8
+
+#EXTINF:-1 tvg-name="NBC News Now" group-title="Internacional", NBC News
+https://nbcnewsnow-lh.akamaihd.net/i/nbcnewsnow_1@193095/master.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV" group-title="Internacional", NASA TV
+https://ntv1-lh.akamaihd.net/i/NASA_1@500393/master.m3u8
